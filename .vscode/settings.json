@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.cps": "javascript",
+        "array": "cpp",
+        "string": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}
